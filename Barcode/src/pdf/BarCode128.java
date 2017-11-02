@@ -30,6 +30,8 @@ public class BarCode128 {
     ArrayList<String> barcode = new ArrayList<String>();
     barcode.add("1234554321");
     barcode.add("9876543212");
+    barcode.add("9876543212");
+    
    // barcode.add("7876567876");
     
 
